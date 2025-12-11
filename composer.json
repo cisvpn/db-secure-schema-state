@@ -1,5 +1,5 @@
 {
-  "name": "hazratmilad/db-secure-schema-state",
+  "name": "cisvpn/db-secure-schema-state",
   "description": "SSL-capable schema dump state replacement for Laravel supporting MySQL, MariaDB, and PostgreSQL with secure connection options.",
   "keywords": ["laravel", "mysql", "mariadb", "postgresql", "postgres", "schema", "mysqldump", "pg_dump", "ssl"],
   "type": "library",
