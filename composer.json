@@ -1,18 +1,18 @@
 {
   "name": "cisvpn/db-secure-schema-state",
-  "description": "SSL-capable schema dump state replacement for Laravel supporting MySQL, MariaDB, and PostgreSQL with secure connection options.",
-  "keywords": ["laravel", "mysql", "mariadb", "postgresql", "postgres", "schema", "mysqldump", "pg_dump", "ssl"],
+  "description": "SSL-capable schema dump state replacement for Laravel supporting PostgreSQL with secure connection options.",
+  "keywords": ["laravel", "postgresql", "postgres", "schema", "pg_dump", "ssl"],
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Milad",
+      "name": "Milad Azizi Basir",
       "email": "undresspr.spy@gmail.com"
     }
   ],
   "require": {
     "php": "^8.1|^8.2|^8.3",
-    "laravel/framework": "^11|^12"
+    "laravel/framework": "^11|^12|^13"
   },
   "autoload": {
     "psr-4": {
