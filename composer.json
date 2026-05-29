@@ -20,9 +20,7 @@
     }
   },
   "autoload-dev": {
-    "psr-4": {
-      "Milad\\DBSecureSchemaState\\Tests\\": "tests/"
-    }
+    "psr-4": {}
   },
   "extra": {
     "laravel": {
